@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  },
+  "scripts": {
+    "start": "node anagram.js ",
+    "test": "npx mocha "
+  }
+}
